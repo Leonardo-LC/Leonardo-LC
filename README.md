@@ -1,19 +1,19 @@
 # Leonardo Lopes Cruz
 
-**`Estudante de Engenharia de Software na UnB (FGA)`**
+**`Software Engineering Student at UnB (FGA)`**
 
-## 🚀 Sobre Mim
+## 🚀 About Me
 
-Sou estudante de **Engenharia de Software na Universidade de Brasília (UnB - Campus Gama)**, atualmente no 4º semestre. Utilizando o **Ubuntu** como meu ambiente principal de desenvolvimento, tenho foco em **Desenvolvimento Web FullStack** e criação de soluções eficientes.
+I am an undergraduate student in **Software Engineering at the University of Brasília (UnB - Gama Campus)**, currently in my 4th semester. Using **Ubuntu** as my primary development environment, I focus on **Full-Stack Web Development** and creating efficient solutions.
 
-Atualmente, sou **Estagiário de Desenvolvimento de Software no Ministério dos Transportes**, atuando na criação de interfaces modernas com **React e Vite**, além de gerenciar fluxos ágeis com Taiga.
+Currently, I am a **Software Development Intern at the Ministry of Transport of Brazil**, working on the creation of modern user interfaces with **React and Vite**, as well as managing agile workflows using Taiga.
 
-Anteriormente, atuei como **Desenvolvedor FullStack (NestJS/NextJS) e Assessor de Talentos na CJR (Empresa Júnior de Computação)**, onde participei de projetos de consultoria, modelagem de bancos de dados com Prisma ORM e desenvolvimento de sistemas web ponta a ponta.
+Previously, I worked as a **Full-Stack Developer (NestJS/Next.js) and Talent Assessor at CJR (Junior Enterprise of Computing)**, where I participated in technical consulting projects, database modeling with Prisma ORM, and end-to-end web system development.
 
-🎓 **Formação:** Bacharelado em Engenharia de Software na UnB (2024 - 2029).  
-💼 **Experiência:** React, Vite, ecossistema Node (Nest/Next), TypeScript, C, SQL/PL-SQL, versionamento de código e metodologias ágeis.
+🎓 **Education:** B.S. in Software Engineering at UnB (2024 - 2029).  
+💼 **Experience:** React, Vite, Node ecosystem (NestJS/Next.js), TypeScript, C, SQL/PL-SQL, version control, and agile methodologies.
 
-### 🛠️ Linguagens e Tecnologias
+### 🛠️ Languages and Technologies
 
 <div align="left">
   <!-- Frontend & Design -->
@@ -41,16 +41,16 @@ Anteriormente, atuei como **Desenvolvedor FullStack (NestJS/NextJS) e Assessor d
 
 <br />
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Leonardo-LC&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-LC&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Leonardo-LC&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-LC&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=10" alt="Top Languages" />
 </p>
 
 ---
 
-### 📫 Contato
+### 📫 Contact
 
 📧 **Email:** [leonardolopescrz@gmail.com](mailto:leonardolopescrz@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/leonardo-lopes-66a52b239/](https://www.linkedin.com/in/leonardo-lopes-66a52b239/)
