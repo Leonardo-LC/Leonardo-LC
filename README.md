@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-I am an undergraduate student in **Software Engineering at the University of Brasília (UnB - Gama Campus)**, currently in my 4th semester. Using **Ubuntu** as my primary development environment, I focus on **Full-Stack Web Development** and creating efficient solutions.
+I am an undergraduate student in **Software Engineering at the University of Brasília (UnB - Gama Campus)**, currently in my 5th semester. Using **Ubuntu** as my primary development environment, I focus on **Full-Stack Web Development** and creating efficient solutions.
 
 Currently, I am a **Software Development Intern at the Ministry of Transport of Brazil**, working on the creation of modern user interfaces with **React and Vite**, as well as managing agile workflows using Taiga.
 
